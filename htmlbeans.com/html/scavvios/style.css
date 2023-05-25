@@ -1096,7 +1096,7 @@ Intro Block / .introBlock
 -------------------------------------------------------------------*/
 
 .introBlock {
-	/* min-height: 100vh; */
+	min-height: 100vh;
 }
 
 /*------------------------------------------------------------------
@@ -1294,7 +1294,7 @@ Progress Show Span / .prgShowSpan
 }
 
 .prgShowSpan.bg-primary:before {
-	border-color: transparent #20ce65 transparent transparent;
+	border-color: transparent #00d3f1 transparent transparent;
 }
 
 .prgShowSpan.bg-secondary:before {
@@ -5605,3 +5605,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 	}
 }
 
+.textcolor{
+	color: #00d3f1;
+}
+.textcolorheading{
+	color: #00d3f1;
+	font-size: 35px;
+	font-weight: 700;
+}

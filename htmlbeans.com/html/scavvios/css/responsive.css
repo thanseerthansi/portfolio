@@ -153,7 +153,7 @@
 		width: 100% !important;
 	}
 	.ibUpperWrap {
-		margin-top: 60vh;
+		margin-top: 100vh;
 		position: relative;
 		z-index: 2;
 		background-color: #19232b;
@@ -233,17 +233,6 @@
 	}
 	.btnTop {
 		margin-left: 450px;
-	}
-	.introBlock {
-		position: fixed;
-		left: 0;
-		top: 0;
-	}
-	.ibUpperWrap {
-		margin-top: 100vh;
-		position: relative;
-		z-index: 2;
-		background-color: #19232b;
 	}
 }
 
