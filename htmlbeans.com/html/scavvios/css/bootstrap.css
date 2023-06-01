@@ -39755,3 +39755,18 @@ a.text-indigo:focus {
 		border-color: #dee2e6;
 	}
 }
+.bg-blue{
+	background-color:#0034a2
+}
+.bg-brown{
+	background-color: #953500 !important;
+}
+.bg-white{
+	background-color: #FFFFFD !important;
+}
+.bg-grey{
+	background-color: #676666 !important;
+}
+.bg-sky{
+	background-color: #52edf1 !important;
+}
