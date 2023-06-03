@@ -39756,17 +39756,22 @@ a.text-indigo:focus {
 	}
 }
 .bg-blue{
-	background-color:#0034a2
+	background-color:#0034a2;
+	border-color:#0034a2 !important
 }
 .bg-brown{
 	background-color: #953500 !important;
+	border-color:#953500 !important
 }
 .bg-white{
 	background-color: #FFFFFD !important;
+	border-color:#FFFFFD !important
 }
 .bg-grey{
 	background-color: #676666 !important;
+	border-color:#676666  !important
 }
 .bg-sky{
 	background-color: #52edf1 !important;
+	border-color:#52edf1 !important
 }
