@@ -252,10 +252,10 @@
 		font-size: 1.625rem;
 	}
 	.colXlDiv5 {
-		max-width: 20% !important;
+		max-width: 30% !important;
 		-webkit-box-flex: 0 !important;
-		-ms-flex: 0 0 20% !important;
-		flex: 0 0 20% !important;
+		-ms-flex: 0 0 30% !important;
+		flex: 0 0 30% !important;
 	}
 	#pageHeader {
 		padding-top: 33px;
