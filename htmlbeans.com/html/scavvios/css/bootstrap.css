@@ -39775,3 +39775,8 @@ a.text-indigo:focus {
 	background-color: #52edf1 !important;
 	border-color:#52edf1 !important
 }
+@media screen and (max-width: 768px) and (min-width:256px) {
+	.mobwidth{
+		width: 100px !important;	
+	}
+  }
