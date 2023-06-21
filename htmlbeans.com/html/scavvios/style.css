@@ -1095,10 +1095,12 @@ Heading Title / .headingTitle
 Intro Block / .introBlock
 -------------------------------------------------------------------*/
 
-.introBlock {
-	min-height: 100vh;
-}
 
+@media (min-width: 575px) {
+	.introBlock {
+		min-height: 100vh;
+	}
+}
 /*------------------------------------------------------------------
 Intro Block Image / .ibImgHolder
 -------------------------------------------------------------------*/
