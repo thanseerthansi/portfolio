@@ -258,7 +258,7 @@
 		flex: 0 0 30% !important;
 	}
 	#pageHeader {
-		padding-top: 33px;
+		/* padding-top: 33px; */
 		padding-bottom: 33px;
 	}
 	.ibSocialNetworks {

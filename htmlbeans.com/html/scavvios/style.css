@@ -1649,15 +1649,16 @@ sponsorsList / .sponsorsList
 }
 
 .sponsorsList img {
-	filter: grayscale(100%);
-	opacity: .5;
+	
+	opacity: 1;
+	filter: grayscale(0%);
 	-webkit-transition: opacity .3s ease, filter .3s ease;
 	transition: opacity .3s ease, filter .3s ease;
 }
 
 .sponsorsList img:hover {
-	opacity: 1;
-	filter: grayscale(0%);
+	filter: grayscale(100%);
+	opacity: .5;
 }
 
 /*------------------------------------------------------------------
